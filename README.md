@@ -3,6 +3,7 @@
 This repository contains the official computational framework and MATLAB implementation for rendering 3D modular surface visualizations of holomorphic functions, as presented in my research paper.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21261115.svg)](https://doi.org/10.5281/zenodo.21261115)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21286325.svg)](https://doi.org/10.5281/zenodo.21286325)
 
 ## Overview
 This project synthesizes the analytical mechanics and geometric topographies of complex function mappings. By investigating holomorphic transformations through the geometric lens of Tristan Needham's "Amplitwist" framework, these scripts computationally verify coordinate orthogonality and map functional magnitude as spatial height, using phase arguments as a continuous color spectrum.
