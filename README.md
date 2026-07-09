@@ -8,9 +8,9 @@ This repository contains the official computational framework and MATLAB impleme
 This project synthesizes the analytical mechanics and geometric topographies of complex function mappings. By investigating holomorphic transformations through the geometric lens of Tristan Needham's "Amplitwist" framework, these scripts computationally verify coordinate orthogonality and map functional magnitude as spatial height, using phase arguments as a continuous color spectrum.
 
 ## Specimen Functions Implemented
-*   **Exponential Mapping:** $e^z$ (Transcendental family)
-*   **Reciprocal Inversion:** $1/z$ (Rational family)
-*   **Periodic Sine:** $\sin(z)$ (Trigonometric family)
+*   **Specimen A - Exponential Mapping:** $e^z$ (Transcendental family)
+*   **Specimen B - Reciprocal Inversion:** $1/z$ (Rational family)
+*   **Specimen C - Periodic Sine:** $\sin(z)$ (Trigonometric family)
 
 ## Getting Started
 ### Prerequisites
